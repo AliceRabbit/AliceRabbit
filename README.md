@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🏫 PhD, Xidian University, China
+- 🌱 I’m currently working on Blockchain, Zero-Konwledge & Cryptography
+- 👯 I’m looking to collaborate on Layer 2 (Especially rollups), and just a beginner
+- 💬 Ask me about anything through **Issues** here
+
 <!--
 **AliceRabbit/AliceRabbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
