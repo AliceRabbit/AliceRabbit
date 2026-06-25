@@ -4,6 +4,6 @@ I'm exploring the intersection of applied cryptography, AI security, and agent s
 
 Currently building:
 - NanKe: an AI-native creative writing and role-play workspace
-- Research tooling for cryptography / AI-assisted academic workflows
+- Research tooling for AI-assisted academic workflows
 
 Open to discussions through Issues.
